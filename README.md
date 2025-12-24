@@ -206,7 +206,7 @@ curl -X POST http://localhost:3333/modules \
 
 ## 👤 Autor
 
-**Rodrigo**
+**Murilo Guilherme**
 
 ## 📄 Licença
 
